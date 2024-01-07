@@ -4,9 +4,13 @@ Learning Activity: Creating a Website Using WordPress
 
 # SMART Goal:
 Specific: Build a functional website using WordPress.
+
 Measurable: Have a fully designed and functional website with at least five webpages.
+
 Achievable: Utilize available WordPress resources and tutorials to guide the website creation process.
+
 Relevant: Developing a website using WordPress will enhance my web design and development skills.
+
 Time-bound: Complete the website within two weeks.
 
 # Theory:
