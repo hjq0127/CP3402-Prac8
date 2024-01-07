@@ -1,4 +1,4 @@
-Learning Journal
+#Learning Journal
 
 Learning Activity: Creating a Website Using WordPress
 
